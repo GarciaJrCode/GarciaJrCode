@@ -30,6 +30,9 @@ I have **research and industry** experience in **quantitative modeling**, **mode
 **Quantitative finance & numerics**  
 ![QuantLib](https://img.shields.io/badge/QuantLib-1a1a2e?style=plastic) ![Statsmodels](https://img.shields.io/badge/Statsmodels-4C72B0?style=plastic) ![CVXPY](https://img.shields.io/badge/CVXPY-3D8C51?style=plastic) ![ARCH](https://img.shields.io/badge/arch-GARCH-2E4057?style=plastic) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 
+**Artificial Intelligence**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
+
 **Supporting libraries** (estimation, time series, reporting)  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=plastic) ![scikit--learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 
