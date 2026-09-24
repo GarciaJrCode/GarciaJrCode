@@ -1,15 +1,15 @@
 # 💫 About Me
 
-👋🏽 I am **René**, a **quantitative analyst** focused on **derivative pricing**, **volatility and risk models**, and **model validation**.
+👋🏽 I am **René**, a **quantitative analyst**. I work on **stochastic and statistical models**: formulation of assumptions, **estimation** and **calibration**, **numerical implementation**, and **validation** (in-sample structure, out-of-sample behaviour, stability, and sensitivity).
 
-I build and calibrate **stochastic models** from market inputs: **prices**, **hedges**, **Greeks**, and **risk measures** (including **VaR** and **Expected Shortfall**), using **Monte Carlo**, **calibration** on **implied volatility**, and rigorous **backtesting**.
+My core toolkit is **probability**, **stochastic processes**, **time series**, **statistical inference**, and **numerical methods** (simulation, optimization, and PDE-based schemes), applied to questions that arise in **mathematical finance** and in **quantitative modeling** more broadly—including **pricing and hedging**, **risk measurement**, and **model risk**.
 
-I have research and industry experience in **statistical estimation**, **time series**, **numerical methods** (including **PDEs** and reduced-order models), and **probabilistic modeling**—with explicit **assumptions**, **out-of-sample checks**, and reproducible implementation in **Python** and **C++**.
+In **research and industry** settings, I have contributed to: rigorous **specification and estimation** of dynamical models on **time series**; **uncertainty and error analysis** with **hypothesis testing** and **recalibration** when performance drifts; **reduced-order and projection-based numerics** for **nonlinear dynamics**; and **probabilistic decision models** evaluated under **controlled experiments** and operational constraints.
 
 👨🏽‍💻 I practice **LeetCode** and **HackerRank**. I also write on **Medium** and maintain a **portfolio**.
 
 **Contact:** garciagarcia293@gmail.com  
-**Portfolio:** https://diyemagarcia.github.io/site_web/ · **LinkedIn:** https://www.linkedin.com/in/garciajosiasdiyema · **Medium:** https://medium.com/@garciagarcia293/about · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **HackerRank:** https://www.hackerrank.com/profile/garciagarcia293
+**Portfolio:** https://diyemagarcia.github.io/site_web/ · **LinkedIn:** https://www.linkedin.com/in/garciajosiasdiyema · **Medium:** https://medium.com/@garciagarcia293/about · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **HackerRank:** https://www.hackerrank.com/profile/garciagarcia293
 
 
 ## 🌐 Socials
@@ -36,14 +36,14 @@ I have research and industry experience in **statistical estimation**, **time se
 
 # 📐 Quantitative Finance & Methods
 
-**Markets & products**  
-Derivative pricing · Exotic and structured products (autocallables, barrier reverse convertibles) · Implied and local volatility · Stochastic volatility (Heston, local-stochastic volatility, rough volatility) · Greeks · Delta hedging · Interest rates and credit · High-frequency data and order books
+**Core quantitative finance**  
+Stochastic calculus · Monte Carlo and variance reduction · Derivative pricing · Greeks and hedging · Calibration · Implied volatility · Local and stochastic volatility · Structured and exotic payoffs · Interest rates and credit · Market microstructure (order books, high-frequency)
 
-**Risk**  
+**Risk & model validation**  
 VaR · Expected Shortfall · Extreme value theory · Copulas and tail dependence · GARCH · Model risk · Backtesting (Kupiec, Christoffersen, Acerbi–Székely)
 
-**Methods**  
-Stochastic calculus · Monte Carlo and variance reduction · Calibration · Statistical inference · Hypothesis testing · Time series · Covariance estimation (Ledoit–Wolf) · Convex optimization · Numerical methods for PDEs
+**Mathematical & statistical methods**  
+Stochastic processes · Statistical inference · Hypothesis testing · Time series · Regression · Covariance estimation (Ledoit–Wolf) · Convex optimization · Numerical methods for PDEs · Reduced-order modeling
 
-**Representative project themes**  
-Implied volatility surfaces and Dupire local volatility · Autocallable pricing and hedging under multiple models · Rough Bergomi simulation and calibration · Portfolio tail risk with copulas and Expected Shortfall
+**Implementation themes** (public work)  
+Multi-model pricing and hedging studies · Volatility surface construction · Tail-risk and dependence modeling for portfolios
