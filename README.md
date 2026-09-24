@@ -39,9 +39,24 @@ I have **research and industry** experience in **quantitative modeling**, **mode
 
 # 📐 Quantitative Finance & Methods
 
-**Core quantitative finance**  
-Stochastic calculus - Monte Carlo and variance reduction - Derivative pricing - Greeks and hedging - Calibration - Implied volatility - Local and stochastic volatility - Structured and exotic payoffs - Interest rates and credit - Market microstructure (order books, high-frequency)
-
+<table>
+<tr>
+<td width="220" valign="top"><b>📈 Core quantitative finance</b></td>
+<td>Stochastic calculus · Monte Carlo and variance reduction · Derivative pricing · Greeks and hedging · Calibration · Implied volatility · Local and stochastic volatility · Structured and exotic payoffs · Interest rates and credit · Market microstructure (order books, high-frequency)</td>
+</tr>
+<tr>
+<td valign="top"><b>🛡️ Risk & model validation</b></td>
+<td>VaR · Expected Shortfall · Extreme value theory · Copulas and tail dependence · GARCH · Model risk · Backtesting (Kupiec, Christoffersen, Acerbi–Székely)</td>
+</tr>
+<tr>
+<td valign="top"><b>📊 Mathematical & statistical methods</b></td>
+<td>Stochastic processes · Statistical inference · Hypothesis testing · Time series · Regression · Covariance estimation (Ledoit–Wolf) · Convex optimization · Numerical methods for PDEs · Reduced-order modeling</td>
+</tr>
+<tr>
+<td valign="top"><b>🔧 Implementation themes</b><br><sub>(public work)</sub></td>
+<td>Multi-model pricing and hedging studies · Volatility surface construction · Tail-risk and dependence modeling for portfolios</td>
+</tr>
+</table>
 **Risk & model validation**  
 VaR - Expected Shortfall - Extreme value theory - Copulas and tail dependence - GARCH - Model risk - Backtesting (Kupiec, Christoffersen, Acerbi–Székely)
 
