@@ -2,7 +2,7 @@
 
 👋🏽 I am **René**, a **Quantitative Analyst**. I build, test, and implement **quantitative models** for **financial markets**, from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
 
-I care about **getting the model right**: clear assumptions, sensible calibration, and checks that results hold up when conditions change. Where useful, I draw on **probability**, **simulation**, and **statistics**; the goal is always a model that is **defensible** and **usable** on the desk.
+I care about **getting the model right**: clear assumptions, sensible calibration, and checks that results hold up when conditions change. Where useful, I draw on **probability**, **simulation**, and **statistics**. The goal is always a model that is **defensible** and **usable** on the desk.
 
 I have **research and industry** experience in **quantitative modeling**, **model estimation and validation**, **forecast stability and recalibration**, and **numerical modeling** of complex dynamics.
 
