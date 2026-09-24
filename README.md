@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋🏽 I am **René**, a **quantitative analyst**. I build, test, and implement **quantitative models** for **financial markets**—from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
+👋🏽 I am **René**, a **Quantitative Analyst**. I build, test, and implement **quantitative models** for **financial markets**—from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
 
 I care about **getting the model right**: clear assumptions, sensible calibration, and checks that results hold up when conditions change. Where useful, I draw on **probability**, **simulation**, and **statistics**; the goal is always a model that is **defensible** and **usable** on the desk.
 
