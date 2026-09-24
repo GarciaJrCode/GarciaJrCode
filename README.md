@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋🏽 I am **René**, a **Quantitative Analyst**. I build, test, and implement **quantitative models** for **financial markets**—from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
+👋🏽 I am **René**, a **Quantitative Analyst**. I build, test, and implement **quantitative models** for **financial markets**, from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
 
 I care about **getting the model right**: clear assumptions, sensible calibration, and checks that results hold up when conditions change. Where useful, I draw on **probability**, **simulation**, and **statistics**; the goal is always a model that is **defensible** and **usable** on the desk.
 
@@ -37,13 +37,13 @@ I have **research and industry** experience in **quantitative modeling**, **mode
 # 📐 Quantitative Finance & Methods
 
 **Core quantitative finance**  
-Stochastic calculus · Monte Carlo and variance reduction · Derivative pricing · Greeks and hedging · Calibration · Implied volatility · Local and stochastic volatility · Structured and exotic payoffs · Interest rates and credit · Market microstructure (order books, high-frequency)
+Stochastic calculus - Monte Carlo and variance reduction - Derivative pricing - Greeks and hedging - Calibration - Implied volatility - Local and stochastic volatility - Structured and exotic payoffs - Interest rates and credit - Market microstructure (order books, high-frequency)
 
 **Risk & model validation**  
-VaR · Expected Shortfall · Extreme value theory · Copulas and tail dependence · GARCH · Model risk · Backtesting (Kupiec, Christoffersen, Acerbi–Székely)
+VaR - Expected Shortfall - Extreme value theory - Copulas and tail dependence - GARCH - Model risk - Backtesting (Kupiec, Christoffersen, Acerbi–Székely)
 
 **Mathematical & statistical methods**  
-Stochastic processes · Statistical inference · Hypothesis testing · Time series · Regression · Covariance estimation (Ledoit–Wolf) · Convex optimization · Numerical methods for PDEs · Reduced-order modeling
+Stochastic processes - Statistical inference - Hypothesis testing - Time series - Regression - Covariance estimation (Ledoit–Wolf) - Convex optimization - Numerical methods for PDEs - Reduced-order modeling
 
 **Implementation themes** (public work)  
-Multi-model pricing and hedging studies · Volatility surface construction · Tail-risk and dependence modeling for portfolios
+Multi-model pricing and hedging studies - Volatility surface construction - Tail-risk and dependence modeling for portfolios
