@@ -57,11 +57,3 @@ I have **research and industry** experience in **quantitative modeling**, **mode
 <td>Multi-model pricing and hedging studies · Volatility surface construction · Tail-risk and dependence modeling for portfolios</td>
 </tr>
 </table>
-**Risk & model validation**  
-VaR - Expected Shortfall - Extreme value theory - Copulas and tail dependence - GARCH - Model risk - Backtesting (Kupiec, Christoffersen, Acerbi–Székely)
-
-**Mathematical & statistical methods**  
-Stochastic processes - Statistical inference - Hypothesis testing - Time series - Regression - Covariance estimation (Ledoit–Wolf) - Convex optimization - Numerical methods for PDEs - Reduced-order modeling
-
-**Implementation themes** (public work)  
-Multi-model pricing and hedging studies - Volatility surface construction - Tail-risk and dependence modeling for portfolios
