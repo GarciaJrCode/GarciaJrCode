@@ -1,15 +1,15 @@
 # 💫 About Me
 
-👋🏽 I am **René**, a **quantitative analyst**. I work on **stochastic and statistical models**: formulation of assumptions, **estimation** and **calibration**, **numerical implementation**, and **validation** (in-sample structure, out-of-sample behaviour, stability, and sensitivity).
+👋🏽 I am **René**, a **quantitative analyst**. I build, test, and implement **quantitative models** for **financial markets**—from idea and assumptions to numbers you can use for **pricing**, **risk**, and **decisions**.
 
-My core toolkit is **probability**, **stochastic processes**, **time series**, **statistical inference**, and **numerical methods** (simulation, optimization, and PDE-based schemes), applied to questions that arise in **mathematical finance** and in **quantitative modeling** more broadly—including **pricing and hedging**, **risk measurement**, and **model risk**.
+I care about **getting the model right**: clear assumptions, sensible calibration, and checks that results hold up when conditions change. Where useful, I draw on **probability**, **simulation**, and **statistics**; the goal is always a model that is **defensible** and **usable** on the desk.
 
-In **research and industry** settings, I have contributed to: rigorous **specification and estimation** of dynamical models on **time series**; **uncertainty and error analysis** with **hypothesis testing** and **recalibration** when performance drifts; **reduced-order and projection-based numerics** for **nonlinear dynamics**; and **probabilistic decision models** evaluated under **controlled experiments** and operational constraints.
+I have **research and industry** experience in **quantitative modeling**, **model estimation and validation**, **forecast stability and recalibration**, and **numerical modeling** of complex dynamics.
 
 👨🏽‍💻 I practice **LeetCode** and **HackerRank**. I also write on **Medium** and maintain a **portfolio**.
 
 **Contact:** garciagarcia293@gmail.com  
-**Portfolio:** https://diyemagarcia.github.io/site_web/ · **LinkedIn:** https://www.linkedin.com/in/garciajosiasdiyema · **Medium:** https://medium.com/@garciagarcia293/about · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **HackerRank:** https://www.hackerrank.com/profile/garciagarcia293
+**Portfolio:** https://diyemagarcia.github.io/site_web/ · **LinkedIn:** https://www.linkedin.com/in/garciajosiasdiyema · **Medium:** https://medium.com/@garciagarcia293/about · **LeetCode:** https://leetcode.com/u/garciagarcia293/ · **HackerRank:** https://www.hackerrank.com/profile/garciagarcia293
 
 
 ## 🌐 Socials
